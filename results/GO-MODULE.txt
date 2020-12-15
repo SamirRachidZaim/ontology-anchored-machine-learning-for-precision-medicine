@@ -1,0 +1,14 @@
+Submitted GO IDs	Submitted values	Significance	GO terms	GO-Module IDs
+GO:0035150	0	K	regulation of tube size	7
+GO:0016569	0	F	covalent chromatin modification	 
+GO:0016570	0	K	histone modification	4
+GO:0032760	0	K	positive regulation of tumor necrosis factor production	6
+GO:0042475	0	K	odontogenesis of dentin-containing tooth	3
+GO:0042590	0	K	antigen processing and presentation of exogenous peptide antigen via MHC class I	5
+GO:0051781	0	K	positive regulation of cell division	2
+GO:0061138	0	K	morphogenesis of a branching epithelium	1
+
+
+9 Submitted GOid (1); 8 Retained GOid (2); 7 Key Module(s) (3)
+0 Key Module(s) have more than 2 GOid (4); 7 Key Module(s) have only one GOid (5)
+(4)/(2) = 0.00%; (5)/(2) = 87.50%; (3)/(2) = 87.50%
